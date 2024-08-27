@@ -69,3 +69,11 @@ for result in results:
 
 # Close Neo4j driver
 driver.close()
+
+
+
+
+####output
+
+
+What is the ReleaseDate of The Union? Users can also ask about the date of the release of the union. Users can ask questions about the release date and date of events in the future. For more information on the Union, visit the Union's official website."
